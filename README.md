@@ -1,2 +1,2 @@
 # sugar-coshian.github.io
-サイト
+[サイト](https://sugarchu-d.github.io/sugar-coshian.github.io/)
